@@ -5,7 +5,7 @@ Senior Full Stack Engineer
 --------------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [vinayakrocks999@gmail.com](mailto:vinayakrocks999@gmail.com)
+* ✉️  You can contact me at [vinayakanandnaik@gmail.com](mailto:vinayakanandnaik@gmail.com)
 
 ### Skills
 
