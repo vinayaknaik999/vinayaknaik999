@@ -1,4 +1,4 @@
-Hi 👋 My name is Vinayak Anandkumar Naik
+Hi 👋 My name is Vinayak
 ========================================
 
 Senior Full Stack Engineer
